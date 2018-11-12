@@ -1,0 +1,36 @@
+{
+    "segmentList": [
+        {
+            "id" : 1,
+            "value": "fleshSails",
+            "creatorsName" : "Miffy",
+            "title" : "Flase Sails",
+            "description": "Some long text",
+            "createdDate": 1539507801161
+        },
+        {
+            "id" : 2,
+            "value": "lyusi",
+            "creatorsName" : "Lyusi",
+            "title" : "LP",
+            "description": "Some long text, Some long text",
+            "createdDate": 1539507801161
+        },
+        {
+            "id" : 3,
+            "value": "hripso",
+            "creatorsName" : "hripso",
+            "title" : "LP",
+            "description": "Some long text, Some long text",
+            "createdDate": 1539507801161
+        },
+        {
+            "id" : 4,
+            "value": "garik",
+            "creatorsName" : "Garik",
+            "title" : "LP",
+            "description": "Some long text, Some long text",
+            "createdDate": 1539507801161
+        }
+    ]
+}
