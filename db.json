@@ -1,4 +1,10 @@
 {
+    "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
     "segmentList": [
         {
             "id" : 1,
