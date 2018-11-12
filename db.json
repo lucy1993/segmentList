@@ -4,7 +4,7 @@
             "id" : 1,
             "value": "fleshSails",
             "creatorsName" : "Miffy",
-            "title" : "Flase Sails",
+            "label" : "Flase Sails",
             "description": "Some long text",
             "createdDate": 1539507801161
         },
@@ -12,7 +12,7 @@
             "id" : 2,
             "value": "lyusi",
             "creatorsName" : "Lyusi",
-            "title" : "LP",
+            "label" : "LP",
             "description": "Some long text, Some long text",
             "createdDate": 1539507801161
         },
@@ -20,7 +20,7 @@
             "id" : 3,
             "value": "hripso",
             "creatorsName" : "hripso",
-            "title" : "LP",
+            "label" : "LP",
             "description": "Some long text, Some long text",
             "createdDate": 1539507801161
         },
@@ -28,7 +28,7 @@
             "id" : 4,
             "value": "garik",
             "creatorsName" : "Garik",
-            "title" : "LP",
+            "label" : "LP",
             "description": "Some long text, Some long text",
             "createdDate": 1539507801161
         }
@@ -36,23 +36,23 @@
     "userProperties" : [
         {   
             "id": 1,
-            "title": "Geography",
+            "label": "Geography",
             "value": "geography"
         },{   
             "id": 2,
-            "title": "User Type",
+            "label": "User Type",
             "value": "userType"
         },{   
             "id": 3,
-            "title": "Gender",
+            "label": "Gender",
             "value": "gender"
         },{   
             "id": 4,
-            "title": "Age",
+            "label": "Age",
             "value": "age"
         },{   
             "id": 4,
-            "title": "Platform",
+            "label": "Platform",
             "value": "platform"
         }
         
