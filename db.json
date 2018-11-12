@@ -32,5 +32,29 @@
             "description": "Some long text, Some long text",
             "createdDate": 1539507801161
         }
+    ],
+    "userProperties" : [
+        {   
+            id: 1,
+            title: "Geography",
+            value: "geography"
+        },{   
+            id: 2,
+            title: "User Type",
+            value: "userType"
+        },{   
+            id: 3,
+            title: "Gender",
+            value: "gender"
+        },{   
+            id: 4,
+            title: "Age",
+            value: "age"
+        },{   
+            id: 4,
+            title: "Platform",
+            value: "platform"
+        }
+        
     ]
 }
