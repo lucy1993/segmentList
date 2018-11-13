@@ -1,10 +1,4 @@
 {
-    "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
     "segmentList": [
         {
             "id" : 1,
@@ -62,5 +56,20 @@
             "value": "platform"
         }
         
-    ]
+    ], 
+    "geography" : [
+        {
+            "id": 1,
+            "label": "RU",
+            "value": "ru"
+        },{   
+            "id": 2,
+            "label": "FR",
+            "value": "fr"
+        },{   
+            "id": 3,
+            "label": "ES",
+            "value": "es"
+        }
+    ], 
 }
