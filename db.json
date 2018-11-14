@@ -7,24 +7,21 @@
             "label" : "Flase Sails",
             "description": "Some long text",
             "createdDate": 1539507801161
-        },
-        {
+        },{
             "id" : 2,
             "value": "lyusi",
             "creatorsName" : "Lyusi",
             "label" : "LP",
             "description": "Some long text, Some long text",
             "createdDate": 1539507801161
-        },
-        {
+        },{
             "id" : 3,
             "value": "hripso",
             "creatorsName" : "hripso",
             "label" : "LP",
             "description": "Some long text, Some long text",
             "createdDate": 1539507801161
-        },
-        {
+        },{
             "id" : 4,
             "value": "garik",
             "creatorsName" : "Garik",
@@ -71,5 +68,46 @@
             "label": "ES",
             "value": "es"
         }
-      ]
+      ],
+    "userType" : [
+         {
+            "id": 1,
+            "label": "New User",
+            "value": "newUser"
+        },{
+            "id": 2,
+            "label": "Member",
+            "value": "member"
+        }
+       ],
+    "newUser" : [
+        {
+            "id": 1,
+            "label": "New User New Cookie",
+            "value": "newUserNewCookie"
+        },{
+            "id": 2,
+            "label": "Registered New User",
+            "value": "registeredNewUser"
+        }
+    ],
+     "member": [
+          {
+            "id": 1,
+            "label": "Old Cookie New User",
+            "value": "oldCookieNewUser"
+        },{
+            "id": 2,
+            "label": "Member Sleep",
+            "value": "memberSleep"
+        },{
+            "id": 3,
+            "label": "Stable,
+            "value": "stable"
+        },{
+            "id": 4,
+            "label": "Active",
+            "value": "active"
+        }
+     ]
 }
