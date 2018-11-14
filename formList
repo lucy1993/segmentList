@@ -1,0 +1,20 @@
+[
+  {
+    "id": "geography",
+    "geography" : [
+        {
+            "id": 1,
+            "label": "RU",
+            "value": "ru"
+        },{
+            "id": 2,
+            "label": "FR",
+            "value": "fr"
+        },{
+            "id": 3,
+            "label": "ES",
+            "value": "es"
+        }
+      ]
+  }
+]
