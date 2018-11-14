@@ -53,5 +53,42 @@
             "value": "platform"
         }
         
+    ],
+         "geography" : [
+        {
+            "id": 1,
+            "label": "RU",
+            "value": "ru"
+        },{
+            "id": 2,
+            "label": "FR",
+            "value": "fr"
+        },{
+            "id": 3,
+            "label": "ES",
+            "value": "es"
+        }
+      ],
+    "userType" : [
+         {
+            "id": 1,
+            "label": "New User",
+            "value": "newUser"
+        },{
+            "id": 2,
+            "label": "Member",
+            "value": "member"
+        }
+       ],
+    "newUser" : [
+        {
+            "id": 1,
+            "label": "New User New Cookie",
+            "value": "newUserNewCookie"
+        },{
+            "id": 2,
+            "label": "Registered New User",
+            "value": "registeredNewUser"
+        }
     ]
 }
