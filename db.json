@@ -56,7 +56,9 @@
             "value": "platform"
         }
         
-    ], 
+    ],
+    {
+    "id": "geography",
     "geography" : [
         {
             "id": 1,
@@ -72,4 +74,5 @@
             "value": "es"
         }
     ]
+    }
 }
