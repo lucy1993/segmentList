@@ -30,30 +30,22 @@
             "createdDate": 1539507801161
         }
     ],
-    "userProperties" : [
-        {   
-            "id": 1,
-            "label": "Geography",
-            "value": "geography"
-        },{   
-            "id": 2,
-            "label": "User Type",
-            "value": "userType"
-        },{   
-            "id": 3,
-            "label": "Gender",
-            "value": "gender"
-        },{   
-            "id": 4,
-            "label": "Age",
-            "value": "age"
-        },{   
-            "id": 4,
-            "label": "Platform",
-            "value": "platform"
-        }
-        
-    ],
+    "addProperty" : 
+    {
+      "data":{
+       "title":"Select Property",
+       "values":[
+          { 
+            "name":"Geogrpphy",
+            "id":""
+          },
+          { 
+            "name":"User Type",
+            "id":""
+          }
+        ]
+      }
+    },
          "geography" : [
         {
             "id": 1,
