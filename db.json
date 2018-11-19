@@ -37,11 +37,11 @@
        "values":[
           { 
             "name":"Geogrpphy",
-            "id": 1
+            "id": "geog"
           },
           { 
             "name":"User Type",
-            "id":2
+            "id": "usT
           }
         ]
       }
