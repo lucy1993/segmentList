@@ -46,7 +46,7 @@
         ]
       }
     },
-        "selectSubProperty": [
+        "selectSubProperty": {
             {
                 "id": "selectCountry",
                  "data":{
@@ -83,7 +83,7 @@
                 ]
               }
             }
-        ],
+        },
     "userType" : [
          {
             "id": 1,
