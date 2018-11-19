@@ -37,30 +37,53 @@
        "values":[
           { 
             "name":"Geogrpphy",
-            "id": "geog"
+            "id": "selectCountry"
           },
           { 
             "name":"User Type",
-            "id": "usT"
+            "id": "selectType"
           }
         ]
       }
     },
-         "geography" : [
-        {
-            "id": 1,
-            "label": "RU",
-            "value": "ru"
-        },{
-            "id": 2,
-            "label": "FR",
-            "value": "fr"
-        },{
-            "id": 3,
-            "label": "ES",
-            "value": "es"
-        }
-      ],
+        "selectSubProperty": [
+            {
+                "id": "selectCountry",
+                 "data":{
+                   "title":"Select Country",
+                   "values":[
+                      { 
+                        "name":"Russian",
+                        "id":"",
+                        "icon":""
+                      },
+                      { 
+                        "name":"US",
+                        "id":"",
+                        "icon":""
+                      }
+                    ]
+                  }
+            },
+            {
+                "id": "selectType",
+                   "data":{
+               "title":"Select Type",
+               "values":[
+                  { 
+                    "name":"New User",
+                    "id":"",
+                    "icon":""
+                  },
+                  { 
+                    "name":"Member",
+                    "id":"",
+                    "icon":""
+                  }
+                ]
+              }
+            }
+        ],
     "userType" : [
          {
             "id": 1,
