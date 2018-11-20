@@ -84,26 +84,18 @@
               }
             }
         ],
-    "userType" : [
-         {
-            "id": 1,
-            "label": "New User",
-            "value": "newUser"
-        },{
-            "id": 2,
-            "label": "Member",
-            "value": "member"
+    "addBehavior" : {
+          "data":{
+           "actions":[
+              { 
+                "id":"",
+                "action":"Visit"
+               },
+               { 
+                "id":"",
+                "action":"Register
+               } 
+            ]
+          }
         }
-       ],
-    "newUser" : [
-        {
-            "id": 1,
-            "label": "New User New Cookie",
-            "value": "newUserNewCookie"
-        },{
-            "id": 2,
-            "label": "Registered New User",
-            "value": "registeredNewUser"
-        }
-    ]
 }
