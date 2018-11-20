@@ -86,7 +86,7 @@
         ],
     "addBehavior" : {
           "data":{
-           "actions":[
+           "values":[
               { 
                 "id":"",
                 "action":"Visit"
