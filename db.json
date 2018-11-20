@@ -30,8 +30,7 @@
             "createdDate": 1539507801161
         }
     ],
-    "addProperty" : 
-    {
+    "addProperty" : {
       "data":{
        "title":"Select Property",
        "values":[
@@ -46,6 +45,20 @@
         ]
       }
     },
+        "addBehavior" : {
+          "data":{
+           "values":[
+              { 
+                "id":"eefewfw",
+                "name":"Visit"
+               },
+               { 
+                "id":"fwefqd",
+                "name":"Register"
+               } 
+            ]
+          }
+        }
         "selectSubProperty": [
             {
                 "id": "selectCountry",
@@ -84,18 +97,4 @@
               }
             }
         ],
-    "addBehavior" : {
-          "data":{
-           "values":[
-              { 
-                "id":"",
-                "action":"Visit"
-               },
-               { 
-                "id":"",
-                "action":"Register"
-               } 
-            ]
-          }
-        }
 }
